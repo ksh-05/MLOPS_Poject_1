@@ -22,4 +22,4 @@ RUN python pipeline/training_pipeline.py
 
 EXPOSE 8000 8080
 
-CMD ["sh", "-c", "fastapi run api.py & streamlit run app.py --server.port 8080"]
+CMD ["sh", "-c", "fastapi run api.py & streamlit run appplication.py --server.port 8080"]
