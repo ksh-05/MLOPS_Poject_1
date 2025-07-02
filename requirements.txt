@@ -1,0 +1,14 @@
+pandas
+numpy
+google-cloud-storage
+imbalanced-learn
+scikit-learn
+pyyaml
+seaborn
+matplotlib
+statsmodels
+lightgbm
+mlflow
+streamlit
+fastapi[standard]
+requests
